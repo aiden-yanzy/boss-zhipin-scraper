@@ -34,6 +34,9 @@ docs/
 # Local skill tooling config (baoyu-image-gen etc.)
 .baoyu-skills/
 
+# Claude Code 本地目录（权限配置、插件日志），个人本地文件不提交
+.claude/
+
 # Editor and OS files
 .idea/
 .vscode/
